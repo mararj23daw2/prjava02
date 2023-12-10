@@ -1,0 +1,13 @@
+git branch branca00
+git status
+git checkout branca00
+git merge branca00
+git push
+git push origin branch01
+
+----
+
+No podem veure l’ultima línea ya que hem cambiat de branca y el que fa es que ens ha cambait l’arxiu al enterior
+Si degut a que com hem cambiat de branca els cambis s’han fet i estem en l’arxiu modificat
+Degut a que hem cambiat i realitzat un checkout
+A un, ja que hem fet un altre commit a Branch despres de cambiar-ne
